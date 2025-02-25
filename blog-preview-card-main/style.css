@@ -2,6 +2,7 @@
   margin: 0;
 }
 body {
+  font-family: "Figtree", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +15,7 @@ body {
   background-color: white;
   border: solid 1px black;
   border-radius: 10px;
-  height: 500px;
+  height: 550px;
   width: 370px;
   padding: 20px;
   box-shadow: 5px 5px;
